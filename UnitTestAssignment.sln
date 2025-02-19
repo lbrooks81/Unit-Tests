@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialCalculator", "FactorialCalculator\FactorialCalculator.csproj", "{4CAB47AF-9113-4B0D-B63E-03E7E9E21B57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTests", "FactorialTests\FactorialTests.csproj", "{6CA41AA9-8C48-4A44-9947-678B8F67CDAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4CAB47AF-9113-4B0D-B63E-03E7E9E21B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CAB47AF-9113-4B0D-B63E-03E7E9E21B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CAB47AF-9113-4B0D-B63E-03E7E9E21B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA41AA9-8C48-4A44-9947-678B8F67CDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA41AA9-8C48-4A44-9947-678B8F67CDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA41AA9-8C48-4A44-9947-678B8F67CDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA41AA9-8C48-4A44-9947-678B8F67CDAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
